@@ -1,5 +1,21 @@
 <div align="center">
 
+[![Lifecycle](https://img.shields.io/badge/●_ACTIVE-22c55e?style=for-the-badge&labelColor=0f0f23)](https://github.com/beyond-repair/ADL-Governance)
+[![Claim](https://img.shields.io/badge/Claim_software-22c55e?style=for-the-badge&labelColor=0f0f23)](https://github.com/beyond-repair/ADL-Governance/blob/main/docs/CLAIM_VALIDATION.md)
+[![Governance](https://img.shields.io/badge/ADL--Governance-7c3aed?style=for-the-badge&labelColor=0f0f23)](https://github.com/beyond-repair/ADL-Governance)
+
+```
+LIFECYCLE   ACTIVE
+CLAIM       software
+NOT CLAIMED claim level raised by this README
+```
+
+</div>
+
+---
+
+<div align="center">
+
 # Project Nehemiah · AEGIS
 
 ### Live **host integrity** — measure change, prove it, decide against a baseline
@@ -53,3 +69,14 @@ Ontology and architecture-facing. Align subsystems to the Graph model; **do not*
 ---
 
 **Atomic Dream Labs** · Validator contract: [forge-aegis](https://github.com/beyond-repair/forge-aegis) · [ADL-Governance](https://github.com/beyond-repair/ADL-Governance)
+
+
+---
+
+<div align="center">
+
+**REWRITE · BUILD · TRANSCEND**
+
+Governing source: [ADL-Governance](https://github.com/beyond-repair/ADL-Governance) · [Claim levels 0–5](https://github.com/beyond-repair/ADL-Governance/blob/main/docs/CLAIM_VALIDATION.md)
+
+</div>
