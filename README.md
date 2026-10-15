@@ -64,7 +64,9 @@ Truth · Graph · Watchman · Wisdom · Discernment · Memory · Restoration · 
 
 ## Status
 
-Ontology and architecture-facing. Align subsystems to the Graph model; **do not** fork independent validation semantics away from forge-aegis v0.1+.
+Ontology and architecture-facing (docs-only). Align subsystems to the Graph model; **do not** fork independent validation semantics away from forge-aegis v0.1+.
+
+**Sweep-390 (2026-10-15):** Added root LICENSE (MIT) and SECURITY.md. CI remains docs-presence check. Classification held ACTIVE (spec sibling). No executable code; claims capped.
 
 ---
 
